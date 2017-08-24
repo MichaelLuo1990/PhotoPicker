@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_d61198c749171a9416e07000efa92a97ba71d801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_18e67cb7b71a9b1ef1089981d0dd1a4415223564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_77352bdc2669a0d8af6b5458ec62b3faea0bb112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC0/c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7/gifdecoder-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0-RC0_aca0aa0e82c2109017345f0d0595fb12a9db2887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_fa88ff91bc9cabd3ce7492cd8c2b2a8dcbadfcdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_ba96540329e2cf1c9fed7e3f60442b9775266bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_14e850e002e037a610702139a8d19690e01cf7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_2a67300e0657e52d60b21b0cd933f9d8164f16b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.1_8be39cd6751c43c41357d8480fe4a9aaf21e3327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_0e1a0611d2908eae954226ddcc0faca7fd30e99b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/PhotoPickerDemo/ucrop/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d4b78f4e04639289214163bb3203d22e4cf2f3a">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/PhotoPickerDemo-ucrop-unspecified_0b323eb86d353093e8655804d66f92be945f515f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC0/eb86cd1d96acc30dcebf338abaf2c62ca28bf355/glide-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/glide-4.0.0-RC0_82e1314567d0f84cc0924e3eb3a4a5a981a14746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.5/4f1ac7ec0215e8f87ac80269baadc82878b87ed8/rxjava-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/rxjava-2.0.5_91516968311adf4e1d3750ec8ceaeeeea5981032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_0bb42d3a965e29e28040a7a35927999c55609823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_74c6579d08ac6ff520cfe8c63b3de9c28aeb227c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.github.chrisbanes.photoview/library/1.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.github.chrisbanes.photoview-library-1.2.4_f43a9b755a0aab3922f74e2e82e42e9ca039a133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_fb8598488d17733eebe39ae502b72ce1f52cdb20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC0/46d23cdc19155c5f0d47ece99ca1c421346c1509/disklrucache-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0-RC0_a329ce37d2543df2b68ff2d03e3bf9553adb0d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/exploded-aar/PhotoPickerDemo/picture_library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2af1eb29a4bbd91e71a2c7aab4fd623c3af189">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/PhotoPickerDemo-picture_library-unspecified_94d15a0fb956166aa0334f157ef216598dbabd24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC0/d5dd0afc50069b7fa0fc12ac85f91efa8df4db67/annotations-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/annotations-4.0.0-RC0_ba4323807eba3e6e670472314bf9af15487450f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelluo/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/michaelluo/AndroidStudioProjects/PhotoPickerDemo/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_938ee78e8a4b9af93660a69e92c5dff8dd83dbd0.jar" />
+    </item>
+
+</items>
